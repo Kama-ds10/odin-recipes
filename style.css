@@ -1,0 +1,19 @@
+h1 {
+  background-color: aqua;
+  font-size: 28px;
+  text-align: center;
+}
+
+ul {
+  background-color: palevioletred;
+  padding: 20px;
+  list-style: none;
+}
+
+ul li a {
+  color: black;
+  font-size: 16px;
+  font-weight: bold;
+  /* padding: 5px; */
+  /* text-decoration: none; */
+}
